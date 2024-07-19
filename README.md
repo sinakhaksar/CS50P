@@ -12,7 +12,7 @@ This repository showcases my work from the course. I'm using these problem sets 
 
 ## Usage
 
-Feel free to explore, use, or adapt the code here. For any questions, contact me at [sinakhaksar3@gamil.com].
+Feel free to explore, use, or adapt the code here. For any questions, contact me at sinakhaksar3@gamil.com.
 
 ## License
 
